@@ -5,7 +5,7 @@
             "num_documento":"101",
             "nombre":"usuario 1",
             "telefono":"111",
-            "valor":"1",
+            "valor":"10000",
             "descripcion":"producto 1"
         },
         {
@@ -41,7 +41,7 @@
             "num_documento":"103",
             "nombre":"usuario 3",
             "telefono":"333",
-            "valor":"1",
+            "valor":"10000",
             "descripcion":"producto 3"
         },
         {
@@ -50,7 +50,7 @@
             "num_documento":"104",
             "nombre":"usuario 4",
             "telefono":"444",
-            "valor":"1",
+            "valor":"10000",
             "descripcion":"producto 4"
         },
         {
